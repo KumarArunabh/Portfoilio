@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://arunabhgupta-arunabh-guptas-projects-0b0cd7a6.vercel.app" target="_blank">Arunabh Gupta</a>
+  <a href="https://portfolio-98duv01dh-arunabh-guptas-projects-0b0cd7a6.vercel.app/" target="_blank">Arunabh Gupta</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -18,9 +18,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/KumarArunabh/Portfoilio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/KumarArunabh/Portfoilio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
@@ -29,7 +29,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://arunabhgupta-arunabh-guptas-projects-0b0cd7a6.vercel.app/" target="_blank">Arunabh Gupta</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-98duv01dh-arunabh-guptas-projects-0b0cd7a6.vercel.app/" target="_blank">Arunabh Gupta</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
